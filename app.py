@@ -1,4 +1,4 @@
-om flask import Flask, request, render_template
+from flask import Flask, request, render_template
 import requests
 import json
 
